@@ -1,0 +1,48 @@
+
+p{
+   color: black;
+    
+}
+
+.Jetline{
+    
+    display:flex;
+  
+}
+.box{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.dv{
+    display:flex;
+    justify-content: flex-end;
+}
+body{
+    background-color:grey
+}
+h1{
+ 
+    margin-left:500px;
+    padding:30px
+}
+a:link{
+    color:rgb(0, 162, 255)
+
+}
+a:visited{
+    color:rgb(0, 162, 255)
+}
+.me p {
+   opacity: 1;
+}
+.me:hover p{
+    opacity: 0.3;
+}
+.me img{
+    opacity:1;
+}
+.me:hover img{
+    opacity:0.3;
+}
